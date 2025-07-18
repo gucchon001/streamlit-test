@@ -1,2 +1,2 @@
 streamlit==1.47.0
-streamlit-google-auth==0.2.3 
+git+https://github.com/MrBounty/streamlit-google-auth.git 
